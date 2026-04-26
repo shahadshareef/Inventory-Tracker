@@ -1,2 +1,7 @@
 # Inventory-Tracker
 Inventory Tracker for work
+
+run this in the folder containing file:
+py -m PyInstaller --onefile --windowed stockTrack.py
+
+a dist folder should be formed, you can double click the .exe file in there
